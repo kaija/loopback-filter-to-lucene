@@ -1,0 +1,29 @@
+{
+  "name": "loopback-filter-to-lucene",
+  "version": "1.0.0",
+  "description": "Loopback filter JSON to Apache Lucene string",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaija/loopback-filter-to-lucene.git"
+  },
+  "keywords": [
+    "apache",
+    "lucene",
+    "loopback",
+    "filter"
+  ],
+  "author": "Kaija",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaija/loopback-filter-to-lucene/issues"
+  },
+  "homepage": "https://github.com/kaija/loopback-filter-to-lucene",
+  "devDependencies": {
+    "mocha": "^2.2.4",
+    "should": "^6.0.1"
+  }
+}
